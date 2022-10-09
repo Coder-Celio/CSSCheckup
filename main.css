@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+}
+#Car{
+    color:bisque;
+}
+#VW_Gti{
+    border: 2px solid bisque;
+    margin: 50px;
+    padding: 20px 20px 20px 40px;
+}
+.dream {
+    background-color: bisque;
+}
+.size{
+    height: 350px;
+    width: 40%;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg);
+}
